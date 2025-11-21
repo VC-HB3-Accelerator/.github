@@ -156,31 +156,7 @@ VC HB3 Accelerator is a venture fund and software provider creating a global ass
 - Exits: 0 (too early for exits)
 - Focus: Portfolio formation, selection of best accelerator participants
 
-**Year 2 (Q1 2027 - Q4 2027):**
-- Investments: Additional 100-120 portfolio companies (total 200-240)
-- Investment stages: Pre-seed, Seed, Series A
-- Exits: Early exits (1-2 years after investment)
-  - Expected number: 5-10 companies (5% of those invested in year 1)
-  - Average return: 5-8x (very early exits)
-  - Treasury receipts: First returns begin to arrive
-
-**Year 3 (Q1 2028 - Q4 2028):**
-- Investments: Additional 100-120 portfolio companies (total 300-360)
-- Investment stages: Seed, Series A, ICO
-- Exits: Early and medium exits (2-3 years after investment)
-  - Expected number: 15-30 companies (10-15% of those invested)
-  - Average return: 8-12x
-  - Treasury receipts: Increased returns
-
-**Year 4 (Q1 2029 - Q4 2029):**
-- Investments: Additional 100-120 portfolio companies (total 400-480)
-- Investment stages: Series A, ICO
-- Exits: Medium exits (3-4 years after investment)
-  - Expected number: 25-50 companies (15-20% of those invested)
-  - Average return: 10-15x
-  - Treasury receipts: Significant returns
-
-**Year 5 (Q1 2030 - Q4 2030):**
+**Forecast by End of Year 5 (Q1 2030 - Q4 2030):**
 - Investments: Final investments up to 600 companies
 - Investment stages: Series A, ICO
 - Exits: Main wave of exits (4-5 years after investment)
@@ -229,14 +205,8 @@ VC HB3 Accelerator is a venture fund and software provider creating a global ass
 - Exits: 0
 - Minimum token price: Grows from license receipts
 
-**Years 2-3:**
-- Treasury balance: Grows from license sales and first exits
-- Investments: Continue investments in new companies (70% of receipts)
-- Exits: First returns begin to arrive
-- Minimum token price: Accelerated growth
-
-**Years 4-5:**
-- Treasury balance: Significant growth from main wave of exits
+**Forecast by End of Year 5:**
+- Treasury balance: Significant growth from license receipts and main wave of exits
 - Investments: Completion of investments up to 600 companies
 - Exits: Main wave of exits significantly increases treasury balance
 - Minimum token price: Maximum growth from exits
@@ -680,20 +650,20 @@ Investments in governance tokens involve regulatory risks. Legal status of token
 > ⚠️ **Important:** All forecasts are a vision of the future, not a guarantee. The probability of achieving optimistic forecasts may be very low (less than 10%). It is recommended to focus on conservative scenarios when making investment decisions. For more details, see [DISCLAIMERS.md](DISCLAIMERS.md#forecasts-and-vision-of-the-future).
 
 **Conservative Scenario (10% of 333M entrepreneurs by year 5) — MORE REALISTIC:**
-- At minimum price sale: **3,277% profit (~65%+ annually)** ⚠️
-- At market price sale: **20,408% profit (~400%+ annually)** ⚠️
+- At minimum price sale: **2,485% profit (~65%+ annually)** ⚠️
+- At market price sale: **20,268% profit (~400%+ annually)** ⚠️
 - **Probability:** Medium (30-50%)
 - **Recommendation:** Use this scenario as baseline when evaluating investments
 
 **Optimistic Scenario (40% of 333M entrepreneurs by year 5, exit rate 10%) — UNLIKELY:**
-- At minimum price sale: **13,573% profit (~90%+ annually)** ⚠️
-- At market price sale: **152,228% profit (~800%+ annually)** ⚠️
+- At minimum price sale: **10,417% profit (~90%+ annually)** ⚠️
+- At market price sale: **151,667% profit (~800%+ annually)** ⚠️
 - **Probability:** Low (10-20%)
 - **Recommendation:** Consider as maximum possible scenario, not as expected result
 
 **Very Optimistic Scenario (40% of 333M entrepreneurs by year 5, exit rate 20%) — VERY UNLIKELY:**
-- At minimum price sale: **13,695% profit (~90%+ annually)** ⚠️
-- At market price sale: **252,245% profit (~1200%+ annually)** ⚠️
+- At minimum price sale: **10,525% profit (~90%+ annually)** ⚠️
+- At market price sale: **251,686% profit (~1200%+ annually)** ⚠️
 - **Probability:** Very low (less than 10%)
 - **Recommendation:** Consider as vision of the future, not as realistic forecast
 

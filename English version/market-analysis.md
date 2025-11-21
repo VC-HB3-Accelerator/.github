@@ -139,7 +139,7 @@
 - Access to portfolio of tokenized assets
 - Co-investment opportunities
 
-### Path to 40%: Phased Scaling
+### Development Forecast
 
 #### Year 1
 
@@ -147,19 +147,12 @@
 - Focus: Proof of concept, formation of first groups
 - Goal: Creating successful use cases
 
-#### Years 2-3
+#### Forecast by End of Year 5
 
-- Progressive growth: 1-5% of target audience
-- Expansion to new countries through iterative model
-- Work with regulators to create L2 chains
-- Accumulation of successful cases and feedback
-
-#### Years 4-5
-
-- Accelerated growth: 10-20% of target audience
+- Achieving target indicators by scenarios (10-40% of target audience)
 - Network effect: Spread through recommendations
 - Regulator integration: Creation of regulated infrastructure
-- Achieving 40%: Mass adoption of technology
+- Mass adoption of technology in optimistic scenario
 
 ### Development Scenarios (From Conservative to Optimistic)
 
@@ -168,7 +161,7 @@
 - Slow technology adoption
 - Limited regulator integration (1-5% of regulators will agree)
 - Focus on early adopters and technologically advanced companies
-- Profitability: 3,277% profit (~65%+ annually) at minimum price, 20,408% (~400%+ annually) at market price
+- Profitability: 2,485% profit (~65%+ annually) at minimum price, 20,268% (~400%+ annually) at market price
 - **Probability: 30-50%**
 - **Recommendation: Use as baseline scenario when evaluating investments**
 
@@ -185,7 +178,7 @@
 - Mass technology adoption
 - Full regulator integration (10-20% of regulators will agree)
 - Network effect and viral growth
-- Profitability: 13,573% profit (~90%+ annually) at minimum price, 152,228% (~800%+ annually) at market price
+- Profitability: 10,417% profit (~90%+ annually) at minimum price, 151,667% (~800%+ annually) at market price
 - **Probability: 10-20%**
 - **Recommendation: Consider as maximum possible scenario, not as expected result**
 
