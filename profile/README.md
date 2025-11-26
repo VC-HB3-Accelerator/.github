@@ -13,28 +13,28 @@ We're creating the infrastructure for the next generation of businesses, enablin
 ### 💰 For Investors (Limited Partners)
 Explore investment opportunities in the tokenization ecosystem.
 
-**👉 Start here:** [English version/for-investors.md](https://github.com/VC-HB3-Accelerator/.github/blob/main/English%20version/for-investors.md)
+**👉 Start here:** [English version/for-investors.md](English%20version/for-investors.md)
 
 ### 🚀 For Entrepreneurs
 Tokenize your business assets or join our acceleration program.
 
-**👉 Start here:** [English version/for-entrepreneurs.md](https://github.com/VC-HB3-Accelerator/.github/blob/main/English%20version/for-entrepreneurs.md)
+**👉 Start here:** [English version/for-entrepreneurs.md](English%20version/for-entrepreneurs.md)
 
 ### 👨‍💻 For Contractors
 Work with blockchain-based tokenization projects.
 
-**👉 Start here:** [English version/for-contractors.md](https://github.com/VC-HB3-Accelerator/.github/blob/main/English%20version/for-contractors.md)
+**👉 Start here:** [English version/for-contractors.md](English%20version/for-contractors.md)
 
 ### 🏛️ For Regulators
 Understand or integrate with tokenization infrastructure.
 
-**👉 Start here:** [English version/for-regulators.md](https://github.com/VC-HB3-Accelerator/.github/blob/main/English%20version/for-regulators.md)
+**👉 Start here:** [English version/for-regulators.md](English%20version/for-regulators.md)
 
 ---
 
 ## 🌍 Documentation
 
-- **🇷🇺 Русская версия:** [Версия на русском/](https://github.com/VC-HB3-Accelerator/.github/tree/main/%D0%92%D0%B5%D1%80%D1%81%D0%B8%D1%8F%20%D0%BD%D0%B0%20%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC)
+- **🇷🇺 Русская версия:** [Версия на русском/README.md](../Версия%20на%20русском/README.md)
 
 ---
 
@@ -79,7 +79,7 @@ Understand or integrate with tokenization infrastructure.
 
 ---
 
-> ⚠️ **Important:** All forecasts represent our vision of the future, not a guarantee. For detailed risk information, see [DISCLAIMERS.md](https://github.com/VC-HB3-Accelerator/.github/blob/main/English%20version/DISCLAIMERS.md).
+> ⚠️ **Important:** All forecasts represent our vision of the future, not a guarantee. For detailed risk information, see [DISCLAIMERS.md](English%20version/DISCLAIMERS.md).
 
 ---
 
