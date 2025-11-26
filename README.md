@@ -12,6 +12,22 @@ We're building the infrastructure for the next generation of businesses, enablin
 
 ---
 
+## 🌍 Choose Your Language
+
+We provide complete documentation in two languages:
+
+### 🇬🇧 English Version
+
+**[📚 Browse English Documentation](English version/README.md)**  
+Complete documentation package in English with full navigation.
+
+### 🇷🇺 Русская версия
+
+**[📚 Перейти к русской документации](Версия на русском/README.md)**  
+Полный пакет документации на русском языке с полной навигацией.
+
+---
+
 ## 🎯 Who We Serve
 
 We welcome four key audiences:
@@ -20,41 +36,25 @@ We welcome four key audiences:
 
 Looking for investment opportunities in the tokenization ecosystem? Explore our investment proposal, financial model, and governance structure.
 
-**👉 Start here:** [English version/for-investors.md](English%20version/for-investors.md)
+**👉 Start here:** [English version/for-investors.md](English version/for-investors.md)
 
 ### 🚀 For Entrepreneurs
 
 Need to tokenize your business assets or join our acceleration program? Discover how the DLE platform can transform your business.
 
-**👉 Start here:** [English version/for-entrepreneurs.md](English%20version/for-entrepreneurs.md)
+**👉 Start here:** [English version/for-entrepreneurs.md](English version/for-entrepreneurs.md)
 
 ### 👨‍💻 For Contractors
 
 Interested in working with blockchain-based tokenization projects? Learn about our token-based work system and opportunities.
 
-**👉 Start here:** [English version/for-contractors.md](English%20version/for-contractors.md)
+**👉 Start here:** [English version/for-contractors.md](English version/for-contractors.md)
 
 ### 🏛️ For Regulators
 
 Seeking to understand or integrate with tokenization infrastructure? Review our cooperation proposal and technical integration options.
 
-**👉 Start here:** [English version/for-regulators.md](English%20version/for-regulators.md)
-
----
-
-## 🌍 Choose Your Language
-
-We provide complete documentation in two languages:
-
-### 🇬🇧 English Version
-
-**[📚 Browse English Documentation](English%20version/README.md)**  
-Complete documentation package in English with full navigation.
-
-### 🇷🇺 Русская версия
-
-**[📚 Перейти к русской документации](Версия%20на%20русском/README.md)**  
-Полный пакет документации на русском языке с полной навигацией.
+**👉 Start here:** [English version/for-regulators.md](English version/for-regulators.md)
 
 ---
 
@@ -79,7 +79,7 @@ Complete documentation package in English with full navigation.
 - 💼 **600 portfolio companies** from accelerator participants
 - 🌐 **Global network** of tokenized assets and businesses
 
-> ⚠️ **Important:** All forecasts represent our vision of the future, not a guarantee. For detailed risk information, please see [English version/DISCLAIMERS.md](English%20version/DISCLAIMERS.md).
+> ⚠️ **Important:** All forecasts represent our vision of the future, not a guarantee. For detailed risk information, please see [English version/DISCLAIMERS.md](English version/DISCLAIMERS.md).
 
 ---
 
@@ -93,16 +93,16 @@ Complete documentation package in English with full navigation.
 
 ### Documentation Navigation
 
-- **📊 Business Model:** [English version/business-model.md](English%20version/business-model.md)
-- **🗺️ Roadmap:** [English version/roadmap.md](English%20version/roadmap.md)
-- **💻 Software Status:** [English version/software-status.md](English%20version/software-status.md)
-- **❓ FAQ:** [English version/FAQ.md](English%20version/FAQ.md)
-- **📖 Glossary:** [English version/GLOSSARY.md](English%20version/GLOSSARY.md)
+- **📊 Business Model:** [English version/business-model.md](English version/business-model.md)
+- **🗺️ Roadmap:** [English version/roadmap.md](English version/roadmap.md)
+- **💻 Software Status:** [English version/software-status.md](English version/software-status.md)
+- **❓ FAQ:** [English version/FAQ.md](English version/FAQ.md)
+- **📖 Glossary:** [English version/GLOSSARY.md](English version/GLOSSARY.md)
 
 ### Contact Us
 
 - **📧 Email:** info@hb3-accelerator.com
-- **📞 Detailed Contacts:** [English version/CONTACTS.md](English%20version/CONTACTS.md)
+- **📞 Detailed Contacts:** [English version/CONTACTS.md](English version/CONTACTS.md)
 
 ---
 
@@ -122,7 +122,7 @@ For complete navigation and detailed information, visit the README in your prefe
 
 Ready to explore? Choose your path above based on your role, or browse the complete documentation in your preferred language.
 
-Have questions? Check out our [FAQ](English%20version/FAQ.md) or [contact us](English%20version/CONTACTS.md).
+Have questions? Check out our [FAQ](English version/FAQ.md) or [contact us](English version/CONTACTS.md).
 
 ---
 
