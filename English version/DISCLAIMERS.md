@@ -6,7 +6,7 @@
 ---
 
 **🧭 Navigation:**
-- [← Back to Contents](README.md)
+- [← Back to Contents](../profile/README.md)
 - [← FAQ](FAQ.md)
 - [← Glossary](GLOSSARY.md)
 - [← Contacts](CONTACTS.md)
@@ -233,7 +233,7 @@ By using the documents in this repository, you confirm that:
 ---
 
 **🧭 Navigation:**
-- [← Back to Contents](README.md)
+- [← Back to Contents](../profile/README.md)
 - [← FAQ](FAQ.md)
 - [← Glossary](GLOSSARY.md)
 - [← Contacts](CONTACTS.md)

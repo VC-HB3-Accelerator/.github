@@ -6,7 +6,7 @@
 ---
 
 **🧭 Navigation:**
-- [← Back to Contents](README.md)
+- [← Back to Contents](../profile/README.md)
 - [← For Investors](for-investors.md)
 - [💰 Financial Calculations](financial-calculations.md)
 - [🗺️ Roadmap](roadmap.md) →
@@ -59,7 +59,7 @@
 ---
 
 **🧭 Navigation:**
-- [← Back to Contents](README.md)
+- [← Back to Contents](../profile/README.md)
 - [← For Investors](for-investors.md)
 - [💰 Financial Calculations](financial-calculations.md)
 - [🗺️ Roadmap](roadmap.md) →
@@ -444,7 +444,7 @@ Detailed contact information: [CONTACTS.md](CONTACTS.md)
 ---
 
 **🧭 Navigation:**
-- [← Back to Contents](README.md)
+- [← Back to Contents](../profile/README.md)
 - [← For Investors](for-investors.md)
 - [💰 Financial Calculations](financial-calculations.md)
 - [🗺️ Roadmap](roadmap.md) →

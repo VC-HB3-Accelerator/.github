@@ -6,7 +6,7 @@
 ---
 
 **🧭 Navigation:**
-- [← Back to Contents](README.md)
+- [← Back to Contents](../profile/README.md)
 - [← For Investors](for-investors.md)
 - [💰 Financial Calculations](financial-calculations.md)
 - [📊 Business Model](business-model.md) →
@@ -36,7 +36,7 @@
 ---
 
 **🧭 Navigation:**
-- [← Back to Contents](README.md)
+- [← Back to Contents](../profile/README.md)
 - [← For Investors](for-investors.md)
 - [💰 Financial Calculations](financial-calculations.md)
 - [📊 Business Model](business-model.md) →
@@ -278,7 +278,7 @@
 ---
 
 **🧭 Navigation:**
-- [← Back to Contents](README.md)
+- [← Back to Contents](../profile/README.md)
 - [← For Investors](for-investors.md)
 - [💰 Financial Calculations](financial-calculations.md)
 - [📊 Business Model](business-model.md) →

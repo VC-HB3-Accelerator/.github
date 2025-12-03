@@ -6,7 +6,7 @@
 ---
 
 **🧭 Navigation:**
-- [← Back to Contents](README.md)
+- [← Back to Contents](../profile/README.md)
 - [← For Investors](for-investors.md)
 - [📈 Market Analysis](market-analysis.md) →
 - [📊 Business Model](business-model.md) →
@@ -45,7 +45,7 @@
 ---
 
 **🧭 Navigation:**
-- [← Back to Contents](README.md)
+- [← Back to Contents](../profile/README.md)
 - [← For Investors](for-investors.md)
 - [📈 Market Analysis](market-analysis.md) →
 - [📊 Business Model](business-model.md) →
@@ -492,7 +492,7 @@ For more details on revenue sources: [for-investors.md](for-investors.md#revenue
 ---
 
 **🧭 Navigation:**
-- [← Back to Contents](README.md)
+- [← Back to Contents](../profile/README.md)
 - [← For Investors](for-investors.md)
 - [📈 Market Analysis](market-analysis.md) →
 - [📊 Business Model](business-model.md) →

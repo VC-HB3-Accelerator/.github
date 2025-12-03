@@ -6,7 +6,7 @@
 ---
 
 **🧭 Navigation:**
-- [← Back to Contents](README.md)
+- [← Back to Contents](../profile/README.md)
 - [📊 Business Model](business-model.md)
 - [💰 Financial Calculations](financial-calculations.md) →
 - [📈 Market Analysis](market-analysis.md) →
@@ -62,7 +62,7 @@
 ---
 
 **🧭 Navigation:**
-- [← Back to Contents](README.md)
+- [← Back to Contents](../profile/README.md)
 - [📊 Business Model](business-model.md)
 - [💰 Financial Calculations](financial-calculations.md) →
 - [📈 Market Analysis](market-analysis.md) →
@@ -237,9 +237,9 @@ VC HB3 Accelerator is a venture fund and software provider creating a global ass
 - Investment capital: 984,000,000 × 70% = 688,800,000 USDT
 
 **Additional Capital from Receipts:**
-- Receipts from license sales: 70% goes to treasury, then 70% of that to investments
-- Receipts from exits: 70% goes to treasury, then 70% of that to investments
-- Profit reinvestment increases investment capital
+- Receipts from license sales: 70% goes to treasury (used for investments)
+- Receipts from exits: 70% goes to treasury (used for investments)
+- Profit reinvestment increases investment capital over time
 
 **Average Investment Size per Portfolio Company:**
 - **Pre-seed:** 50,000 - 200,000 USDT
@@ -714,20 +714,26 @@ Investments in governance tokens involve regulatory risks. Legal status of token
 > ⚠️ **Important:** All forecasts are a vision of the future, not a guarantee. The probability of achieving optimistic forecasts may be very low (less than 10%). It is recommended to focus on conservative scenarios when making investment decisions. For more details, see [DISCLAIMERS.md](DISCLAIMERS.md#forecasts-and-vision-of-the-future).
 
 **Conservative Scenario (10% of 333M entrepreneurs by year 5) — MORE REALISTIC:**
-- At minimum price sale: **2,485% profit (~65%+ annually)** ⚠️
-- At market price sale: **20,268% profit (~400%+ annually)** ⚠️
+- At minimum price sale: **2,485% total return (~65%+ annually)** ⚠️
+  - *Example: Investment of $10,000 could grow to ~$248,500 over 5 years*
+- At market price sale: **20,268% total return (~400%+ annually)** ⚠️
+  - *Example: Investment of $10,000 could grow to ~$2,026,800 over 5 years*
 - **Probability:** Medium (30-50%)
 - **Recommendation:** Use this scenario as baseline when evaluating investments
 
 **Optimistic Scenario (40% of 333M entrepreneurs by year 5, exit rate 10%) — UNLIKELY:**
-- At minimum price sale: **10,417% profit (~90%+ annually)** ⚠️
-- At market price sale: **151,667% profit (~800%+ annually)** ⚠️
+- At minimum price sale: **10,417% total return (~90%+ annually)** ⚠️
+  - *Example: Investment of $10,000 could grow to ~$1,041,700 over 5 years*
+- At market price sale: **151,667% total return (~800%+ annually)** ⚠️
+  - *Example: Investment of $10,000 could grow to ~$15,166,700 over 5 years*
 - **Probability:** Low (10-20%)
 - **Recommendation:** Consider as maximum possible scenario, not as expected result
 
 **Very Optimistic Scenario (40% of 333M entrepreneurs by year 5, exit rate 20%) — VERY UNLIKELY:**
-- At minimum price sale: **10,525% profit (~90%+ annually)** ⚠️
-- At market price sale: **251,686% profit (~1200%+ annually)** ⚠️
+- At minimum price sale: **10,525% total return (~90%+ annually)** ⚠️
+  - *Example: Investment of $10,000 could grow to ~$1,052,500 over 5 years*
+- At market price sale: **251,686% total return (~1200%+ annually)** ⚠️
+  - *Example: Investment of $10,000 could grow to ~$25,168,600 over 5 years*
 - **Probability:** Very low (less than 10%)
 - **Recommendation:** Consider as vision of the future, not as realistic forecast
 
@@ -794,7 +800,7 @@ Detailed contact information: [CONTACTS.md](CONTACTS.md)
 ---
 
 **🧭 Navigation:**
-- [← Back to Contents](README.md)
+- [← Back to Contents](../profile/README.md)
 - [📊 Business Model](business-model.md)
 - [💰 Financial Calculations](financial-calculations.md) →
 - [📈 Market Analysis](market-analysis.md) →

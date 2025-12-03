@@ -6,7 +6,7 @@
 ---
 
 **🧭 Navigation:**
-- [← Back to Contents](README.md)
+- [← Back to Contents](../profile/README.md)
 - [💻 Software Status](software-status.md) →
 - [📊 Business Model](business-model.md) →
 
@@ -407,6 +407,6 @@ Detailed contact information: [CONTACTS.md](CONTACTS.md)
 ---
 
 **🧭 Navigation:**
-- [← Back to Contents](README.md)
+- [← Back to Contents](../profile/README.md)
 - [💻 Software Status](software-status.md) →
 - [📊 Business Model](business-model.md) →

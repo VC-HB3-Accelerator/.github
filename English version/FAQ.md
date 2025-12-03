@@ -6,7 +6,7 @@
 ---
 
 **🧭 Navigation:**
-- [← Back to Contents](README.md)
+- [← Back to Contents](../profile/README.md)
 - [📖 Glossary](GLOSSARY.md)
 - [📞 Contacts](CONTACTS.md) →
 - [⚠️ Disclaimers](DISCLAIMERS.md) →
@@ -17,7 +17,7 @@
 
 ### What is VC HB3 Accelerator?
 
-VC HB3 Accelerator is a venture fund and software provider creating a global asset tokenization ecosystem through the Digital Legal Entity (DLE) platform. For more details: [README.md](README.md)
+VC HB3 Accelerator is a venture fund and software provider creating a global asset tokenization ecosystem through the Digital Legal Entity (DLE) platform. For more details: [README.md](../profile/README.md)
 
 ### How does the DLE platform work?
 
@@ -245,7 +245,7 @@ Documents are provided for informational purposes. When using, copyright must be
 ---
 
 **🧭 Navigation:**
-- [← Back to Contents](README.md)
+- [← Back to Contents](../profile/README.md)
 - [📖 Glossary](GLOSSARY.md)
 - [📞 Contacts](CONTACTS.md) →
 - [⚠️ Disclaimers](DISCLAIMERS.md) →

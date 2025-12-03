@@ -56,12 +56,12 @@ LLC "ERAITI" has official rights to sell and support Digital Legal Entity licens
 
 ### Documentation
 
-All project documents are available in this repository. See [README.md](README.md) for navigation.
+All project documents are available in this repository. See [README.md](../profile/README.md) for navigation.
 
 ---
 
 **🧭 Navigation:**
-- [← Back to Contents](README.md)
+- [← Back to Contents](../profile/README.md)
 - [← FAQ](FAQ.md)
 - [← Glossary](GLOSSARY.md)
 - [⚠️ Disclaimers](DISCLAIMERS.md) →
