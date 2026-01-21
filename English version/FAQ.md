@@ -21,7 +21,7 @@ VC HB3 Accelerator is a venture fund and software provider creating a global ass
 
 ### How does the DLE platform work?
 
-Digital Legal Entity (DLE) is production-ready software for business tokenization. The platform includes smart contracts, automated reporting, AI assistant, and other features. For more details: [software-status.md](software-status.md)
+Digital Legal Entity (DLE) is a microservices IT infrastructure with a web application for on-premises deployment on company servers. It includes AI agent configuration tools and a smart contract system supporting legal entity credentials and regulatory identifiers for financial operations. Provides business process management and automation, replaces fragmented SaaS services with monthly subscriptions, and complies with regulatory requirements for data storage and processing. For more details: [software-status.md](software-status.md)
 
 ### What makes the project unique?
 

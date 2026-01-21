@@ -79,7 +79,7 @@ The fund interacts with regulators in special economic zones in two directions:
 
 ### 2.1. Development Status
 
-**Digital Legal Entity (DLE)** — production-ready software that has passed the development stage and been tested in practice.
+**Digital Legal Entity (DLE)** — a microservices IT infrastructure with a web application for on-premises deployment on company servers. It includes AI agent configuration tools and a smart contract system supporting legal entity credentials and regulatory identifiers for financial operations. Provides business process management and automation, replaces fragmented SaaS services with monthly subscriptions, and complies with regulatory requirements for data storage and processing.
 
 **Status:** Production-ready (ready for commercial use)
 
