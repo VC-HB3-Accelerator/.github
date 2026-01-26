@@ -74,7 +74,9 @@ Understand or integrate with tokenization infrastructure.
 
 ### 🚀 Main Projects
 
-- **[DLE](https://github.com/VC-HB3-Accelerator/DLE/blob/main/README.en.md)** — Digital Legal Entity DApp for Business (Production-ready tokenization platform)
+- **[DLE](https://github.com/VC-HB3-Accelerator/DLE)** — Digital Legal Entity DApp for Business (Production-ready tokenization platform)
+- **[Blockchain-registry-EVM](https://github.com/VC-HB3-Accelerator/Blockchain-registry-EVM)** — Blockchain registry (EVM)
+- **[Scanner-Blockchain-EVM](https://github.com/VC-HB3-Accelerator/Scanner-Blockchain-EVM)** — Scanner Blockchain EVM
 - **[Documentation](https://github.com/VC-HB3-Accelerator/.github)** — Complete documentation package
 
 ---
@@ -83,7 +85,6 @@ Understand or integrate with tokenization infrastructure.
 
 ---
 
-**Last updated:** 2025-01-27
+**Last updated:** 2026-01-26
 
 *Thank you for visiting VC HB3 Accelerator. We're excited to have you on this journey toward the future of tokenized business.*
-
