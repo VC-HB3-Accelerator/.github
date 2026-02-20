@@ -1,4 +1,4 @@
-**Язык:** [Русский](../profile/README.ru.md) | [English](../profile/README.md)
+**Язык:** [Русский](../ru/service-terms.md) | [English](../en/service-terms.md)
 
 ---
 
@@ -20,7 +20,7 @@
 12. [Политика изменения условий](#12-политика-изменения-условий)
 13. [Контакты](#13-контакты)
 
-**Юридические документы**: [legal/README.md](https://github.com/VC-HB3-Accelerator/DLE/blob/main/legal/README.md) — лицензия, авторские права, требования к атрибуции.
+**Юридические документы**: [legal/README.md](https://github.com/VC-HB3-Accelerator/DLE/blob/main/legal.ru/README.md) — лицензия, авторские права, требования к атрибуции.
 
 ---
 
@@ -248,7 +248,7 @@
 | Управление ключами | Пользователь контролирует ключи шифрования |
 | GDPR | Соответствие (с DPA) |
 
-Подробнее: [Безопасность DLE](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs/security.md)
+Подробнее: [Безопасность DLE](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs.ru/security.md)
 
 ---
 
@@ -331,16 +331,16 @@ DLE использует смарт-контракт на блокчейне д�
 - **Email**: info@hb3-accelerator.com
 - **GitHub**: https://github.com/VC-HB3-Accelerator/DLE
 - **Юридический статус**: Проприетарное ПО (см. [LICENSE](https://github.com/VC-HB3-Accelerator/DLE/blob/main/LICENSE))
-- **Юридическая документация**: [legal/README.md](https://github.com/VC-HB3-Accelerator/DLE/blob/main/legal/README.md)
+- **Юридическая документация**: [legal/README.md](https://github.com/VC-HB3-Accelerator/DLE/blob/main/legal.ru/README.md)
 
 ---
 
 ## Дополнительная документация
 
 - [Описание платформы](application-description.md)
-- [ИИ-агенты](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs/ai-assistant.md) — система создания специализированных агентов
-- [Блокчейн для бизнеса](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs/blockchain-for-business.md) — цифровая регистрация активов и решение бизнес-задач
-- [Безопасность DLE](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs/security.md) — многоуровневая защита
+- [ИИ-агенты](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs.ru/ai-assistant.md) — система создания специализированных агентов
+- [Блокчейн для бизнеса](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs.ru/blockchain-for-business.md) — цифровая регистрация активов и решение бизнес-задач
+- [Безопасность DLE](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs.ru/security.md) — многоуровневая защита
 - [FAQ](FAQ.md) — частые вопросы
 
 ---

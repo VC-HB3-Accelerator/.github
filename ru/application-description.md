@@ -1,4 +1,4 @@
-**Язык:** [Русский](../profile/README.ru.md) | [English](../profile/README.md)
+**Язык:** [Русский](../ru/application-description.md) | [English](../en/application-description.md)
 
 ---
 
@@ -59,7 +59,7 @@ DLE создано для организаций, которым нужна со
 
 Вы сами создаёте агентов под задачи компании: поддержка клиентов, аналитика, бухгалтерия, HR, маркетинг, закупки и любые другие процессы. Данные не покидают ваш сервер.
 
-Подробнее: [ИИ-агенты DLE](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs/ai-assistant.md)
+Подробнее: [ИИ-агенты DLE](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs.ru/ai-assistant.md)
 
 ### 2. CRM и управление контактами
 
@@ -80,7 +80,7 @@ DLE создано для организаций, которым нужна со
 - Управление через голосование токен-холдеров
 - Мультичейн поддержка (Ethereum, Polygon, BSC, Arbitrum, Optimism, Avalanche, Base)
 
-Подробнее: [Блокчейн для бизнеса](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs/blockchain-for-business.md)
+Подробнее: [Блокчейн для бизнеса](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs.ru/blockchain-for-business.md)
 
 ### 5. Группы и пространства для команд
 
@@ -104,7 +104,7 @@ DLE создано для организаций, которым нужна со
 - Соответствие GDPR, CCPA, 152-ФЗ
 - Все данные — на вашем сервере
 
-Подробнее: [Безопасность DLE](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs/security.md)
+Подробнее: [Безопасность DLE](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs.ru/security.md)
 
 ---
 
@@ -158,7 +158,7 @@ DLE создано для организаций, которым нужна со
 
 ### Развёртывание
 
-Установка одной командой через Docker Compose. Подробнее: [Инструкция по установке](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs/back-docs/setup-instruction.md)
+Установка одной командой через Docker Compose. Подробнее: [Инструкция по установке](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs.ru/back-docs/setup-instruction.md)
 
 ---
 
@@ -178,20 +178,20 @@ DLE создано для организаций, которым нужна со
 ## Документация
 
 **Продукт:**
-- [ИИ-агенты](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs/ai-assistant.md) — архитектура, примеры агентов, настройка
-- [Блокчейн для бизнеса](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs/blockchain-for-business.md) — токенизация активов, практические кейсы
-- [Безопасность](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs/security.md) — многоуровневая защита, соответствие регуляторам
+- [ИИ-агенты](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs.ru/ai-assistant.md) — архитектура, примеры агентов, настройка
+- [Блокчейн для бизнеса](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs.ru/blockchain-for-business.md) — токенизация активов, практические кейсы
+- [Безопасность](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs.ru/security.md) — многоуровневая защита, соответствие регуляторам
 - [Условия обслуживания](service-terms.md) — лицензирование, поддержка, гарантии
 - [FAQ](FAQ.md) — частые вопросы
 
 **Техническая:**
-- [Установка](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs/back-docs/setup-instruction.md) — пошаговая настройка
-- [Настройка AI](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs/back-docs/setup-ai-assistant.md) — запуск ИИ-агентов
-- [Блокчейн интеграция](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs/back-docs/blockchain-integration-technical.md) — смарт-контракты, API
+- [Установка](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs.ru/back-docs/setup-instruction.md) — пошаговая настройка
+- [Настройка AI](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs.ru/back-docs/setup-ai-assistant.md) — запуск ИИ-агентов
+- [Блокчейн интеграция](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs.ru/back-docs/blockchain-integration-technical.md) — смарт-контракты, API
 
 **Общая:**
 - [Главная страница](../profile/README.ru.md)
-- [Юридическая документация](https://github.com/VC-HB3-Accelerator/DLE/blob/main/legal/README.md)
+- [Юридическая документация](https://github.com/VC-HB3-Accelerator/DLE/blob/main/legal.ru/README.md)
 
 ---
 

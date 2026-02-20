@@ -1,4 +1,4 @@
-**Language:** [English](../profile/README.md) | [Русский](../profile/README.ru.md)
+**Language:** [English](../en/accelerator-program.md) | [Русский](../ru/accelerator-program.md)
 
 ---
 

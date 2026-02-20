@@ -1,4 +1,4 @@
-**Язык:** [Русский](../profile/README.ru.md) | [English](../profile/README.md)
+**Язык:** [Русский](../ru/for-investors.md) | [English](../en/for-investors.md)
 
 ---
 

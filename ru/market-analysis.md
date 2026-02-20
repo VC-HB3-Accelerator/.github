@@ -1,4 +1,4 @@
-**Язык:** [Русский](../profile/README.ru.md) | [English](../profile/README.md)
+**Язык:** [Русский](../ru/market-analysis.md) | [English](../en/market-analysis.md)
 
 ---
 

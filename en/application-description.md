@@ -1,4 +1,4 @@
-**Language:** [English](../profile/README.md) | [Русский](../profile/README.ru.md)
+**Language:** [English](../en/application-description.md) | [Русский](../ru/application-description.md)
 
 ---
 
@@ -59,7 +59,7 @@ One local Ollama model — many specialized agents. Each agent is tailored to a 
 
 You create agents for your company’s tasks: customer support, analytics, accounting, HR, marketing, procurement, and any other processes. Data never leaves your server.
 
-More: [DLE AI Agents](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs/ai-assistant.md)
+More: [DLE AI Agents](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs.en/ai-assistant.md)
 
 ### 2. CRM and Contact Management
 
@@ -80,7 +80,7 @@ Single interface for all channels: Telegram bot, Email, Web chat, SMS, web forms
 - Governance via token-holder voting
 - Multi-chain support (Ethereum, Polygon, BSC, Arbitrum, Optimism, Avalanche, Base)
 
-More: [Blockchain for Business](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs/blockchain-for-business.md)
+More: [Blockchain for Business](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs.en/blockchain-for-business.md)
 
 ### 5. Groups and Workspaces for Teams
 
@@ -104,7 +104,7 @@ More: [Blockchain for Business](https://github.com/VC-HB3-Accelerator/DLE/blob/m
 - GDPR, CCPA, 152-FZ compliance
 - All data on your server
 
-More: [DLE Security](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs/security.md)
+More: [DLE Security](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs.en/security.md)
 
 ---
 
@@ -158,7 +158,7 @@ Savings: $38,000 over 5 years. Pay once — use indefinitely.
 
 ### Deployment
 
-One-command setup via Docker Compose. More: [Setup instruction](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs/back-docs/setup-instruction.md)
+One-command setup via Docker Compose. More: [Setup instruction](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs.en/back-docs/setup-instruction.md)
 
 ---
 
@@ -178,20 +178,20 @@ More: [Purchase and Service Terms](service-terms.md)
 ## Documentation
 
 **Product:**
-- [AI Agents](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs/ai-assistant.md) — architecture, agent examples, setup
-- [Blockchain for Business](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs/blockchain-for-business.md) — asset tokenization, use cases
-- [Security](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs/security.md) — multi-layer protection, regulatory compliance
+- [AI Agents](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs.en/ai-assistant.md) — architecture, agent examples, setup
+- [Blockchain for Business](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs.en/blockchain-for-business.md) — asset tokenization, use cases
+- [Security](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs.en/security.md) — multi-layer protection, regulatory compliance
 - [Service Terms](service-terms.md) — licensing, support, warranties
 - [FAQ](FAQ.md) — frequently asked questions
 
 **Technical:**
-- [Setup](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs/back-docs/setup-instruction.md) — step-by-step setup
-- [AI Setup](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs/back-docs/setup-ai-assistant.md) — running AI agents
-- [Blockchain Integration](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs/back-docs/blockchain-integration-technical.md) — smart contracts, API
+- [Setup](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs.en/back-docs/setup-instruction.md) — step-by-step setup
+- [AI Setup](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs.en/back-docs/setup-ai-assistant.md) — running AI agents
+- [Blockchain Integration](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs.en/back-docs/blockchain-integration-technical.md) — smart contracts, API
 
 **General:**
 - [Main page](../profile/README.md)
-- [Legal documentation](https://github.com/VC-HB3-Accelerator/DLE/blob/main/legal/README.md)
+- [Legal documentation](https://github.com/VC-HB3-Accelerator/DLE/blob/main/legal.en/README.md)
 
 ---
 

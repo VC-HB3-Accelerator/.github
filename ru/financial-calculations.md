@@ -1,4 +1,4 @@
-**Язык:** [Русский](../profile/README.ru.md) | [English](../profile/README.md)
+**Язык:** [Русский](../ru/financial-calculations.md) | [English](../en/financial-calculations.md)
 
 ---
 

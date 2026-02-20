@@ -1,4 +1,4 @@
-**Language:** [English](../profile/README.md) | [Русский](../profile/README.ru.md)
+**Language:** [English](../en/governance.md) | [Русский](../ru/governance.md)
 
 ---
 

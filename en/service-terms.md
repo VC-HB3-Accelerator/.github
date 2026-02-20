@@ -1,4 +1,4 @@
-**Language:** [English](../profile/README.md) | [Русский](../profile/README.ru.md)
+**Language:** [English](../en/service-terms.md) | [Русский](../ru/service-terms.md)
 
 ---
 
@@ -20,7 +20,7 @@
 12. [Policy for Changing Terms](#12-policy-for-changing-terms)
 13. [Contacts](#13-contacts)
 
-**Legal documents:** [legal/README.md](https://github.com/VC-HB3-Accelerator/DLE/blob/main/legal/README.md) — license, copyright, attribution requirements.
+**Legal documents:** [legal/README.md](https://github.com/VC-HB3-Accelerator/DLE/blob/main/legal.en/README.md) — license, copyright, attribution requirements.
 
 ---
 
@@ -248,7 +248,7 @@ The user is responsible for:
 | Key management | User controls encryption keys |
 | GDPR | Compliance (with DPA) |
 
-More: [DLE Security](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs/security.md)
+More: [DLE Security](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs.en/security.md)
 
 ---
 
@@ -331,16 +331,16 @@ Licenses are sold **only through companies** with official written authorization
 - **Email:** info@hb3-accelerator.com
 - **GitHub:** https://github.com/VC-HB3-Accelerator/DLE
 - **Legal status:** Proprietary software (see [LICENSE](https://github.com/VC-HB3-Accelerator/DLE/blob/main/LICENSE))
-- **Legal documentation:** [legal/README.md](https://github.com/VC-HB3-Accelerator/DLE/blob/main/legal/README.md)
+- **Legal documentation:** [legal/README.md](https://github.com/VC-HB3-Accelerator/DLE/blob/main/legal.en/README.md)
 
 ---
 
 ## Additional Documentation
 
 - [Platform description](application-description.md)
-- [AI Agents](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs/ai-assistant.md) — specialized agent system
-- [Blockchain for Business](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs/blockchain-for-business.md) — digital asset registration and business use cases
-- [DLE Security](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs/security.md) — multi-layer protection
+- [AI Agents](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs.en/ai-assistant.md) — specialized agent system
+- [Blockchain for Business](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs.en/blockchain-for-business.md) — digital asset registration and business use cases
+- [DLE Security](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs.en/security.md) — multi-layer protection
 - [FAQ](FAQ.md) — frequently asked questions
 
 ---

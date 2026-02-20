@@ -1,4 +1,4 @@
-**Язык:** [Русский](../profile/README.ru.md) | [English](../profile/README.md)
+**Язык:** [Русский](../ru/GLOSSARY.md) | [English](../en/GLOSSARY.md)
 
 ---
 
