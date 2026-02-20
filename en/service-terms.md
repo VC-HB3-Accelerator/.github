@@ -1,3 +1,7 @@
+**Language:** [English](../profile/README.md) | [Русский](../profile/README.ru.md)
+
+---
+
 # Digital Legal Entity — Purchase and Service Terms
 
 ## Table of Contents

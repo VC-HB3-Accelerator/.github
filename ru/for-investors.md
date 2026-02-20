@@ -1,6 +1,10 @@
+**Язык:** [Русский](../profile/README.ru.md) | [English](../profile/README.md)
+
+---
+
 # Инвестиционные возможности
 
-**Навигация:** [← К содержанию](README.md) · [Бизнес-модель](business-model.md) · [Финансовые расчёты](financial-calculations.md) · [Управление и голосование](governance.md) · [Дорожная карта](roadmap.md)
+**Навигация:** [← К содержанию](../profile/README.ru.md) · [Бизнес-модель](business-model.md) · [Финансовые расчёты](financial-calculations.md) · [Управление и голосование](governance.md) · [Дорожная карта](roadmap.md)
 
 > **Важно:** Инвестиции связаны с высокими рисками, включая возможность полной потери вложенных средств. Перед принятием решения ознакомьтесь с [DISCLAIMERS.md](DISCLAIMERS.md).
 

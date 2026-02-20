@@ -1,6 +1,10 @@
+**Language:** [English](../profile/README.md) | [Русский](../profile/README.ru.md)
+
+---
+
 # Investment Opportunities
 
-**Navigation:** [← Table of contents](README.md) · [Business model](business-model.md) · [Financial calculations](financial-calculations.md) · [Governance and voting](governance.md) · [Roadmap](roadmap.md)
+**Navigation:** [← Table of contents](../profile/README.md) · [Business model](business-model.md) · [Financial calculations](financial-calculations.md) · [Governance and voting](governance.md) · [Roadmap](roadmap.md)
 
 > **Important:** Investing involves high risks, including the possibility of total loss of invested funds. Before deciding, read [DISCLAIMERS.md](DISCLAIMERS.md).
 

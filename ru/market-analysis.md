@@ -1,6 +1,10 @@
+**Язык:** [Русский](../profile/README.ru.md) | [English](../profile/README.md)
+
+---
+
 # Анализ рынка
 
-**Навигация:** [← К содержанию](README.md) · [Бизнес-модель](business-model.md) · [Финансовые расчёты](financial-calculations.md) · [Для инвесторов](for-investors.md)
+**Навигация:** [← К содержанию](../profile/README.ru.md) · [Бизнес-модель](business-model.md) · [Финансовые расчёты](financial-calculations.md) · [Для инвесторов](for-investors.md)
 
 > Все прогнозы являются видением будущего, а не гарантией. Подробнее: [DISCLAIMERS.md](DISCLAIMERS.md)
 

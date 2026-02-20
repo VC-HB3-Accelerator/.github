@@ -1,3 +1,7 @@
+**Язык:** [Русский](../profile/README.ru.md) | [English](../profile/README.md)
+
+---
+
 # Digital Legal Entity (DLE) — описание платформы
 
 ## Определение
@@ -186,7 +190,7 @@ DLE создано для организаций, которым нужна со
 - [Блокчейн интеграция](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs/back-docs/blockchain-integration-technical.md) — смарт-контракты, API
 
 **Общая:**
-- [Главная страница](README.md)
+- [Главная страница](../profile/README.ru.md)
 - [Юридическая документация](https://github.com/VC-HB3-Accelerator/DLE/blob/main/legal/README.md)
 
 ---

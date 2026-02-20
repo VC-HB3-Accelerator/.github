@@ -1,6 +1,10 @@
+**Язык:** [Русский](../profile/README.ru.md) | [English](../profile/README.md)
+
+---
+
 # Глоссарий терминов
 
-**Навигация:** [← К содержанию](README.md) · [FAQ](FAQ.md) · [Дисклеймеры](DISCLAIMERS.md) · [Контакты](CONTACTS.md)
+**Навигация:** [← К содержанию](../profile/README.ru.md) · [FAQ](FAQ.md) · [Дисклеймеры](DISCLAIMERS.md) · [Контакты](CONTACTS.md)
 
 ---
 

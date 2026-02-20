@@ -1,3 +1,7 @@
+**Language:** [English](../profile/README.md) | [Русский](../profile/README.ru.md)
+
+---
+
 # Digital Legal Entity (DLE) — Platform Description
 
 ## Definition
@@ -186,7 +190,7 @@ More: [Purchase and Service Terms](service-terms.md)
 - [Blockchain Integration](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs/back-docs/blockchain-integration-technical.md) — smart contracts, API
 
 **General:**
-- [Main page](README.md)
+- [Main page](../profile/README.md)
 - [Legal documentation](https://github.com/VC-HB3-Accelerator/DLE/blob/main/legal/README.md)
 
 ---

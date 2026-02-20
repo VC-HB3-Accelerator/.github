@@ -1,6 +1,10 @@
+**Language:** [English](../profile/README.md) | [Русский](../profile/README.ru.md)
+
+---
+
 # Contacts
 
-**Navigation:** [← Table of contents](README.md) · [FAQ](FAQ.md) · [Glossary](GLOSSARY.md) · [Disclaimers](DISCLAIMERS.md)
+**Navigation:** [← Table of contents](../profile/README.md) · [FAQ](FAQ.md) · [Glossary](GLOSSARY.md) · [Disclaimers](DISCLAIMERS.md)
 
 ---
 

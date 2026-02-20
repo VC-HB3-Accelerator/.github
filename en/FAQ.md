@@ -1,6 +1,10 @@
+**Language:** [English](../profile/README.md) | [Русский](../profile/README.ru.md)
+
+---
+
 # Frequently Asked Questions (FAQ)
 
-**Navigation:** [← Table of contents](README.md) · [Glossary](GLOSSARY.md) · [Disclaimers](DISCLAIMERS.md) · [Contacts](CONTACTS.md)
+**Navigation:** [← Table of contents](../profile/README.md) · [Glossary](GLOSSARY.md) · [Disclaimers](DISCLAIMERS.md) · [Contacts](CONTACTS.md)
 
 ---
 

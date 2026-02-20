@@ -1,6 +1,10 @@
+**Language:** [English](../profile/README.md) | [Русский](../profile/README.ru.md)
+
+---
+
 # Market Analysis
 
-**Navigation:** [← Table of contents](README.md) · [Business model](business-model.md) · [Financial calculations](financial-calculations.md) · [For investors](for-investors.md)
+**Navigation:** [← Table of contents](../profile/README.md) · [Business model](business-model.md) · [Financial calculations](financial-calculations.md) · [For investors](for-investors.md)
 
 > All forecasts are a vision of the future, not a guarantee. More: [DISCLAIMERS.md](DISCLAIMERS.md)
 

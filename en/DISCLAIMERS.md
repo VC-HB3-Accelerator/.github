@@ -1,6 +1,10 @@
+**Language:** [English](../profile/README.md) | [Русский](../profile/README.ru.md)
+
+---
+
 # Disclaimers and Warnings
 
-**Navigation:** [← Table of contents](README.md) · [FAQ](FAQ.md) · [Glossary](GLOSSARY.md) · [Contacts](CONTACTS.md)
+**Navigation:** [← Table of contents](../profile/README.md) · [FAQ](FAQ.md) · [Glossary](GLOSSARY.md) · [Contacts](CONTACTS.md)
 
 ---
 

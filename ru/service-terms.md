@@ -1,3 +1,7 @@
+**Язык:** [Русский](../profile/README.ru.md) | [English](../profile/README.md)
+
+---
+
 # Условия приобретения и обслуживания Digital Legal Entity
 
 ## Содержание

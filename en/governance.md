@@ -1,6 +1,10 @@
+**Language:** [English](../profile/README.md) | [Русский](../profile/README.ru.md)
+
+---
+
 # Governance and Voting Mechanism
 
-**Navigation:** [← Table of contents](README.md) · [For investors](for-investors.md) · [Business model](business-model.md) · [Financial calculations](financial-calculations.md)
+**Navigation:** [← Table of contents](../profile/README.md) · [For investors](for-investors.md) · [Business model](business-model.md) · [Financial calculations](financial-calculations.md)
 
 ---
 

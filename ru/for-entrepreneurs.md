@@ -1,6 +1,10 @@
+**Язык:** [Русский](../profile/README.ru.md) | [English](../profile/README.md)
+
+---
+
 # Для предпринимателей
 
-**Навигация:** [← К содержанию](README.md) · [Программа акселерации](accelerator-program.md) · [Условия лицензирования](service-terms.md)
+**Навигация:** [← К содержанию](../profile/README.ru.md) · [Программа акселерации](accelerator-program.md) · [Условия лицензирования](service-terms.md)
 
 ---
 

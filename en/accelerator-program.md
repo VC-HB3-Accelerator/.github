@@ -1,3 +1,7 @@
+**Language:** [English](../profile/README.md) | [Русский](../profile/README.ru.md)
+
+---
+
 # Accelerator Program
 
 We open a presence in an IT hub, deploy a sandbox, and help participants configure and test the DLE platform.

@@ -1,6 +1,10 @@
+**Language:** [English](../profile/README.md) | [Русский](../profile/README.ru.md)
+
+---
+
 # VC HB3 Accelerator Business Model
 
-**Navigation:** [← Table of contents](README.md) · [For investors](for-investors.md) · [Financial calculations](financial-calculations.md) · [Roadmap](roadmap.md)
+**Navigation:** [← Table of contents](../profile/README.md) · [For investors](for-investors.md) · [Financial calculations](financial-calculations.md) · [Roadmap](roadmap.md)
 
 ---
 

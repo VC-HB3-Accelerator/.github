@@ -1,6 +1,10 @@
+**Язык:** [Русский](../profile/README.ru.md) | [English](../profile/README.md)
+
+---
+
 # Дисклеймеры и предупреждения
 
-**Навигация:** [← Содержание](README.md) · [FAQ](FAQ.md) · [Глоссарий](GLOSSARY.md) · [Контакты](CONTACTS.md)
+**Навигация:** [← Содержание](../profile/README.ru.md) · [FAQ](FAQ.md) · [Глоссарий](GLOSSARY.md) · [Контакты](CONTACTS.md)
 
 ---
 

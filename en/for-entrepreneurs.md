@@ -1,6 +1,10 @@
+**Language:** [English](../profile/README.md) | [Русский](../profile/README.ru.md)
+
+---
+
 # For Entrepreneurs
 
-**Navigation:** [← Table of contents](README.md) · [Accelerator program](accelerator-program.md) · [Licensing terms](service-terms.md)
+**Navigation:** [← Table of contents](../profile/README.md) · [Accelerator program](accelerator-program.md) · [Licensing terms](service-terms.md)
 
 ---
 

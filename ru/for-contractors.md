@@ -1,6 +1,10 @@
+**Язык:** [Русский](../profile/README.ru.md) | [English](../profile/README.md)
+
+---
+
 # Возможности для подрядчиков
 
-**Навигация:** [← К содержанию](README.md) · [Бизнес-модель](business-model.md) · [Управление и голосование](governance.md) · [Программа акселерации](accelerator-program.md)
+**Навигация:** [← К содержанию](../profile/README.ru.md) · [Бизнес-модель](business-model.md) · [Управление и голосование](governance.md) · [Программа акселерации](accelerator-program.md)
 
 ---
 

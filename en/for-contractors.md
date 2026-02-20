@@ -1,6 +1,10 @@
+**Language:** [English](../profile/README.md) | [Русский](../profile/README.ru.md)
+
+---
+
 # Opportunities for Contractors
 
-**Navigation:** [← Table of contents](README.md) · [Business model](business-model.md) · [Governance and voting](governance.md) · [Accelerator program](accelerator-program.md)
+**Navigation:** [← Table of contents](../profile/README.md) · [Business model](business-model.md) · [Governance and voting](governance.md) · [Accelerator program](accelerator-program.md)
 
 ---
 

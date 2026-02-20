@@ -1,6 +1,10 @@
+**Language:** [English](../profile/README.md) | [Русский](../profile/README.ru.md)
+
+---
+
 # Financial Calculations and Return Examples
 
-**Navigation:** [← Table of contents](README.md) · [For investors](for-investors.md) · [Business model](business-model.md) · [Market analysis](market-analysis.md) · [Roadmap](roadmap.md)
+**Navigation:** [← Table of contents](../profile/README.md) · [For investors](for-investors.md) · [Business model](business-model.md) · [Market analysis](market-analysis.md) · [Roadmap](roadmap.md)
 
 > **Important:** All forecasts are a vision of the future, not a guarantee. Probability of achieving optimistic forecasts may be very low (under 10%). Focus on conservative scenarios. More: [DISCLAIMERS.md](DISCLAIMERS.md)
 

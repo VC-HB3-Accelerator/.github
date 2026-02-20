@@ -1,6 +1,10 @@
+**Язык:** [Русский](../profile/README.ru.md) | [English](../profile/README.md)
+
+---
+
 # Механизм управления и голосования
 
-**Навигация:** [← К содержанию](README.md) · [Для инвесторов](for-investors.md) · [Бизнес-модель](business-model.md) · [Финансовые расчёты](financial-calculations.md)
+**Навигация:** [← К содержанию](../profile/README.ru.md) · [Для инвесторов](for-investors.md) · [Бизнес-модель](business-model.md) · [Финансовые расчёты](financial-calculations.md)
 
 ---
 
