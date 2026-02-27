@@ -1,5 +1,4 @@
-
-**Language:** [English](https://github.com/VC-HB3-Accelerator/.github/blob/main/profile/README.md) | [Русский](https://github.com/VC-HB3-Accelerator/.github/blob/main/profile/README.ru.md)
+**Language:** English | [Русский](README.ru.md)
 
 ---
 
@@ -9,35 +8,35 @@
 
 We develop the DLE platform, help businesses configure and test it in a sandbox, and invest in promising companies created by accelerator participants.
 
-**DLE Platform (Digital Legal Entity):** [github.com/VC-HB3-Accelerator/DLE](https://github.com/VC-HB3-Accelerator/DLE/blob/main/README.md) — a microservices platform with a web application for on-premises deployment on company servers. It includes tools for configuring AI agents and a smart contract system with support for tax, accounting, banking, and other identifiers established by the regulator. It enables management and automation of business processes, allows moving away from fragmented SaaS services with monthly subscriptions, and complies with regulator requirements for data storage and processing.
+**DLE Platform (Digital Legal Entity):** [github.com/VC-HB3-Accelerator/DLE](https://github.com/VC-HB3-Accelerator/DLE) — a microservices platform with a web application for on-premises deployment on company servers. It includes tools for configuring AI agents and a smart contract system with support for tax, accounting, banking, and other identifiers established by the regulator. It enables management and automation of business processes, allows moving away from fragmented SaaS services with monthly subscriptions, and complies with regulator requirements for data storage and processing.
 
 **Accelerator** — a program for deploying the DLE platform. We open a presence in an IT hub, deploy a sandbox, and help participants configure and test the platform for their business needs. More — [accelerator-program.md](https://github.com/VC-HB3-Accelerator/.github/blob/main/en/accelerator-program.md), [regulatory sandbox description](../en/sandbox-description.md).
 
-**Team:** [team.md](../en/team.md) — token holders, AI tools.
+**About the team:** [team.md](../en/team.md) — founder, AI tools, token holders.
 
 ---
 
-## Who we work for
+## Who We Serve
 
-### For investors
+### For Investors
 
 Looking for portfolio diversification? Review the investment offering, financial model, and fund governance (via governance tokens on blockchain).
 
 Start here: [for-investors.md](https://github.com/VC-HB3-Accelerator/.github/blob/main/en/for-investors.md)
 
-### For entrepreneurs
+### For Entrepreneurs
 
 Tired of fragmented SaaS subscriptions, manual data transfers, and vendor lock-in? The DLE platform replaces a set of services with a single system on your server, and the accelerator helps configure and test it for your business.
 
 Start here: [for-entrepreneurs.md](https://github.com/VC-HB3-Accelerator/.github/blob/main/en/for-entrepreneurs.md)
 
-### For regulators
+### For Regulators
 
-Want to adapt the legal framework to new technology and get ready-made tools piloted in local IT hub sandboxes? Review our cooperation proposal.
+Want to adapt regulation to new technology and get ready-made tools piloted in local IT hub sandboxes? Review our cooperation proposal.
 
 Start here: [for-regulators.md](https://github.com/VC-HB3-Accelerator/.github/blob/main/en/for-regulators.md)
 
-### For contractors
+### For Contractors
 
 Developers, designers, consultants — we are looking for specialists to jointly develop the platform and support accelerator participants. See contractor terms.
 
@@ -48,7 +47,7 @@ Start here: [for-contractors.md](https://github.com/VC-HB3-Accelerator/.github/b
 ## Team and contacts
 
 - **Team and governance:** [team.md](../en/team.md) — founder, AI tools, token holders
-- **Web application:** https://hb3-accelerator.com
+- **Web app:** https://hb3-accelerator.com
 - **Email:** info@hb3-accelerator.com
 
 ---

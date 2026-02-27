@@ -1,4 +1,4 @@
-**Язык:** [Русский](https://github.com/VC-HB3-Accelerator/.github/blob/main/profile/README.ru.md) | [English](https://github.com/VC-HB3-Accelerator/.github/blob/main/profile/README.md)
+**Язык:** [Русский](README.ru.md) | [English](README.md)
 
 ---
 
@@ -12,7 +12,7 @@
 
 **Акселератор** — программа внедрения платформы DLE. Мы открываем представительство в ИТ-хабе, разворачиваем песочницу и помогаем участникам настроить и протестировать платформу под задачи их бизнеса. Подробнее — [accelerator-program.md](https://github.com/VC-HB3-Accelerator/.github/blob/main/ru/accelerator-program.md), [описание регуляторной песочницы](../ru/sandbox-description.md).
 
-**Команда:** [team.md](../ru/team.md) — токен-холдеры, ИИ-инструменты.
+**Команда:** [team.md](../ru/team.md) — токен-холдеры, ИИ-инструменты, 
 
 ---
 
