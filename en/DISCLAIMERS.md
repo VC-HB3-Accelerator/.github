@@ -4,7 +4,7 @@
 
 # Disclaimers and Warnings
 
-**Navigation:** [← Table of contents](../profile/README.md) · [FAQ](FAQ.md) · [Glossary](GLOSSARY.md) · [Contacts](CONTACTS.md)
+**Navigation:** [← Table of contents](../profile/README.md) · [FAQ](https://github.com/VC-HB3-Accelerator/.github/blob/main/en/FAQ.md) · [Glossary](GLOSSARY.md) · [Contacts](CONTACTS.md)
 
 ---
 

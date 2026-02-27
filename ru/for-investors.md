@@ -243,7 +243,7 @@ LP инвесторы получают токены управления и фа
 - [Анализ рынка](market-analysis.md) — TAM/SAM/SOM, конкуренты, тренды
 - [Управление и голосование](governance.md) — кворум, права, процедуры
 - [Программа акселерации](accelerator-program.md) — структура, механика, участники
-- [Глоссарий](GLOSSARY.md) · [FAQ](FAQ.md) · [Дисклеймеры](DISCLAIMERS.md) · [Контакты](CONTACTS.md)
+- [Глоссарий](GLOSSARY.md) · [FAQ](https://github.com/VC-HB3-Accelerator/.github/blob/main/ru/FAQ.md) · [Дисклеймеры](DISCLAIMERS.md) · [Контакты](CONTACTS.md)
 
 ---
 

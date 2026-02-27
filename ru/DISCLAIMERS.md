@@ -4,7 +4,7 @@
 
 # Дисклеймеры и предупреждения
 
-**Навигация:** [← Содержание](../profile/README.ru.md) · [FAQ](FAQ.md) · [Глоссарий](GLOSSARY.md) · [Контакты](CONTACTS.md)
+**Навигация:** [← Содержание](../profile/README.ru.md) · [FAQ](https://github.com/VC-HB3-Accelerator/.github/blob/main/ru/FAQ.md) · [Глоссарий](GLOSSARY.md) · [Контакты](CONTACTS.md)
 
 ---
 

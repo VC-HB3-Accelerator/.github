@@ -4,7 +4,7 @@
 
 # Glossary of Terms
 
-**Navigation:** [← Table of contents](../profile/README.md) · [FAQ](FAQ.md) · [Disclaimers](DISCLAIMERS.md) · [Contacts](CONTACTS.md)
+**Navigation:** [← Table of contents](../profile/README.md) · [FAQ](https://github.com/VC-HB3-Accelerator/.github/blob/main/en/FAQ.md) · [Disclaimers](DISCLAIMERS.md) · [Contacts](CONTACTS.md)
 
 ---
 

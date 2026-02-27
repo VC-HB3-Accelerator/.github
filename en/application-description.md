@@ -182,7 +182,7 @@ More: [Purchase and Service Terms](service-terms.md)
 - [Blockchain for Business](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs.en/blockchain-for-business.md) — asset tokenization, use cases
 - [Security](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs.en/security.md) — multi-layer protection, regulatory compliance
 - [Service Terms](service-terms.md) — licensing, support, warranties
-- [FAQ](FAQ.md) — frequently asked questions
+- [FAQ](https://github.com/VC-HB3-Accelerator/.github/blob/main/en/FAQ.md) — frequently asked questions
 
 **Technical:**
 - [Setup](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs.en/back-docs/setup-instruction.md) — step-by-step setup

@@ -182,7 +182,7 @@ DLE создано для организаций, которым нужна со
 - [Блокчейн для бизнеса](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs.ru/blockchain-for-business.md) — токенизация активов, практические кейсы
 - [Безопасность](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs.ru/security.md) — многоуровневая защита, соответствие регуляторам
 - [Условия обслуживания](service-terms.md) — лицензирование, поддержка, гарантии
-- [FAQ](FAQ.md) — частые вопросы
+- [FAQ](https://github.com/VC-HB3-Accelerator/.github/blob/main/ru/FAQ.md) — частые вопросы
 
 **Техническая:**
 - [Установка](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs.ru/back-docs/setup-instruction.md) — пошаговая настройка

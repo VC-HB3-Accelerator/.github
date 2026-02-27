@@ -4,7 +4,7 @@
 
 # Глоссарий терминов
 
-**Навигация:** [← К содержанию](../profile/README.ru.md) · [FAQ](FAQ.md) · [Дисклеймеры](DISCLAIMERS.md) · [Контакты](CONTACTS.md)
+**Навигация:** [← К содержанию](../profile/README.ru.md) · [FAQ](https://github.com/VC-HB3-Accelerator/.github/blob/main/ru/FAQ.md) · [Дисклеймеры](DISCLAIMERS.md) · [Контакты](CONTACTS.md)
 
 ---
 

@@ -61,7 +61,7 @@ Contacts: info@hb3-accelerator.com
 
 - [Business model](business-model.md) — revenue sources, profit distribution, licensing model
 - [Glossary](GLOSSARY.md) — terms and definitions
-- [FAQ](FAQ.md)
+- [FAQ](https://github.com/VC-HB3-Accelerator/.github/blob/main/en/FAQ.md)
 
 ---
 

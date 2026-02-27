@@ -61,7 +61,7 @@
 
 - [Бизнес-модель](business-model.md) — источники дохода, распределение прибыли, модель лицензирования
 - [Глоссарий](GLOSSARY.md) — термины и определения
-- [Частые вопросы](FAQ.md)
+- [Частые вопросы](https://github.com/VC-HB3-Accelerator/.github/blob/main/ru/FAQ.md)
 
 ---
 

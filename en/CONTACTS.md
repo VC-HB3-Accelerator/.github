@@ -4,7 +4,7 @@
 
 # Contacts
 
-**Navigation:** [← Table of contents](../profile/README.md) · [FAQ](FAQ.md) · [Glossary](GLOSSARY.md) · [Disclaimers](DISCLAIMERS.md)
+**Navigation:** [← Table of contents](../profile/README.md) · [FAQ](https://github.com/VC-HB3-Accelerator/.github/blob/main/en/FAQ.md) · [Glossary](GLOSSARY.md) · [Disclaimers](DISCLAIMERS.md)
 
 ---
 
@@ -12,10 +12,13 @@
 
 | | |
 |---|---|
+| Contact person | Alexander Tarabanov, CEO |
 | Web app | https://hb3-accelerator.com |
 | Email | info@hb3-accelerator.com |
+| Telegram bot | @HB3_Accelerator_Bot |
 | GitHub | https://github.com/VC-HB3-Accelerator |
 | DLE repository | https://github.com/VC-HB3-Accelerator/DLE |
+| Meeting calendar | https://calendar.google.com/calendar/u/0?cid=aGIzYWNjZWxlcmF0b3JAZ21haWwuY29t |
 
 **Founder:** Alexander Viktorovich Tarabanov — architect of the VC HB3 Accelerator ecosystem.
 

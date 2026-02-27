@@ -4,7 +4,7 @@
 
 # Контакты
 
-**Навигация:** [← Содержание](../profile/README.ru.md) · [FAQ](FAQ.md) · [Глоссарий](GLOSSARY.md) · [Дисклеймеры](DISCLAIMERS.md)
+**Навигация:** [← Содержание](../profile/README.ru.md) · [FAQ](https://github.com/VC-HB3-Accelerator/.github/blob/main/ru/FAQ.md) · [Глоссарий](GLOSSARY.md) · [Дисклеймеры](DISCLAIMERS.md)
 
 ---
 
@@ -12,10 +12,13 @@
 
 | | |
 |---|---|
+| Контактное лицо | Тарабанов Александр, генеральный директор |
 | Веб-приложение | https://hb3-accelerator.com |
 | Email | info@hb3-accelerator.com |
+| Telegram-бот | @HB3_Accelerator_Bot |
 | GitHub | https://github.com/VC-HB3-Accelerator |
 | Репозиторий DLE | https://github.com/VC-HB3-Accelerator/DLE |
+| Календарь для встреч | https://calendar.google.com/calendar/u/0?cid=aGIzYWNjZWxlcmF0b3JAZ21haWwuY29t |
 
 **Основатель:** Тарабанов Александр Викторович — архитектор экосистемы VC HB3 Accelerator.
 

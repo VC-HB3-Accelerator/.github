@@ -341,7 +341,7 @@ Licenses are sold **only through companies** with official written authorization
 - [AI Agents](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs.en/ai-assistant.md) — specialized agent system
 - [Blockchain for Business](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs.en/blockchain-for-business.md) — digital asset registration and business use cases
 - [DLE Security](https://github.com/VC-HB3-Accelerator/DLE/blob/main/docs.en/security.md) — multi-layer protection
-- [FAQ](FAQ.md) — frequently asked questions
+- [FAQ](https://github.com/VC-HB3-Accelerator/.github/blob/main/en/FAQ.md) — frequently asked questions
 
 ---
 

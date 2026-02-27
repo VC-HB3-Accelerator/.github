@@ -243,7 +243,7 @@ Exit terms: [financial-calculations.md](financial-calculations.md)
 - [Market analysis](market-analysis.md) — TAM/SAM/SOM, competitors, trends
 - [Governance and voting](governance.md) — quorum, rights, procedures
 - [Accelerator program](accelerator-program.md) — structure, mechanics, participants
-- [Glossary](GLOSSARY.md) · [FAQ](FAQ.md) · [Disclaimers](DISCLAIMERS.md) · [Contacts](CONTACTS.md)
+- [Glossary](GLOSSARY.md) · [FAQ](https://github.com/VC-HB3-Accelerator/.github/blob/main/en/FAQ.md) · [Disclaimers](DISCLAIMERS.md) · [Contacts](CONTACTS.md)
 
 ---
 
