@@ -139,9 +139,8 @@ More: [governance.md](governance.md)
 
 **Alexander Viktorovich Tarabanov** — DLE platform developer, architect of the VC HB3 Accelerator ecosystem.
 
-- Entrepreneur with 20 years of experience in the startup industry
-- Blockchain expertise, experience with AI tools
-- Owner of 70% of governance tokens
+- Sole developer and architect of DLE from day one; coordinates product and partner discussions
+- Owner of 70% of governance tokens; development decisions via on-chain voting with token holders
 
 ### Governance Model
 

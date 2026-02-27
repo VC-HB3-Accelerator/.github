@@ -209,6 +209,8 @@ See [Contacts](CONTACTS.md).
 
 ## See also
 
+- [Team](team.md) — founder, AI tools, token holders
+- [IT hubs and regulators database](it-hubs-database.md) — target venues for sandboxes
 - [Accelerator program](accelerator-program.md) — format, timelines, cohort structure
 - [For regulators](for-regulators.md) — cooperation proposal, implementation steps
 - [Glossary](GLOSSARY.md) — terms and definitions

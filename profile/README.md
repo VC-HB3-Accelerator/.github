@@ -12,6 +12,8 @@ We develop the DLE platform, help businesses configure and test it in a sandbox,
 
 **Accelerator** — a program for deploying the DLE platform. We open a presence in an IT hub, deploy a sandbox, and help participants configure and test the platform for their business needs. More — [accelerator-program.md](https://github.com/VC-HB3-Accelerator/.github/blob/main/en/accelerator-program.md), [regulatory sandbox description](../en/sandbox-description.md).
 
+**About the team:** [team.md](../en/team.md) — founder, AI tools, token holders.
+
 ---
 
 ## Who We Serve
@@ -42,8 +44,9 @@ Start here: [for-contractors.md](https://github.com/VC-HB3-Accelerator/.github/b
 
 ---
 
-## Contacts
+## Team and contacts
 
+- **Team and governance:** [team.md](../en/team.md) — founder, AI tools, token holders
 - **Web app:** https://hb3-accelerator.com
 - **Email:** info@hb3-accelerator.com
 
