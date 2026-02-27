@@ -1,4 +1,4 @@
-**Язык:** [Русский](README.ru.md) | [English](README.md)
+**Язык:** [Русский](https://github.com/VC-HB3-Accelerator/.github/blob/main/profile/README.ru.md) | [English](https://github.com/VC-HB3-Accelerator/.github/blob/main/profile/README.md)
 
 ---
 
